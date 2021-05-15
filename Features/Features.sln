@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queries", "..\Movies\Querie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "..\Cars\Cars.csproj", "{C5BF3E16-A622-4E6B-B005-7B1457257039}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsXML", "..\CarsXML\CarsXML.csproj", "{4D4D9498-75A3-41DD-8A2A-9EF4A80CF5AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarsXML", "..\CarsXML\CarsXML.csproj", "{4D4D9498-75A3-41DD-8A2A-9EF4A80CF5AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsEntity", "..\CarsEntity\CarsEntity.csproj", "{F04EC31C-1AB8-4A46-A15B-E72EC6DE9757}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4D4D9498-75A3-41DD-8A2A-9EF4A80CF5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D4D9498-75A3-41DD-8A2A-9EF4A80CF5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D4D9498-75A3-41DD-8A2A-9EF4A80CF5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04EC31C-1AB8-4A46-A15B-E72EC6DE9757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04EC31C-1AB8-4A46-A15B-E72EC6DE9757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04EC31C-1AB8-4A46-A15B-E72EC6DE9757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04EC31C-1AB8-4A46-A15B-E72EC6DE9757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
